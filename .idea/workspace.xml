@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b4f1ba8-006a-4a0e-a0c6-4d2efc165973" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VugGuhSawuXWyTlO4YN9D3aYAv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/guava-18.0.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.chess.engine.board.BoardUtils" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.chess" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.chess.engine.player" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JChess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chess.JChess" />
+      <module name="Chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JChess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b4f1ba8-006a-4a0e-a0c6-4d2efc165973" name="Default Changelist" comment="" />
+      <created>1578108302435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578108302435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="58" width="847" height="677" key="#Project_Structure" timestamp="1578108341580">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="302" y="58" width="847" height="677" key="#Project_Structure/49.27.1317.741@49.27.1317.741" timestamp="1578108341580" />
+    <state x="165" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578113244999">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="165" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.27.1317.741@49.27.1317.741" timestamp="1578113244999" />
+    <state x="410" y="201" width="585" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578112646606">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="410" y="201" width="585" height="390" key="#com.intellij.fileTypes.FileTypeChooser/49.27.1317.741@49.27.1317.741" timestamp="1578112646606" />
+    <state x="515" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1578716437106">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="515" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/49.27.1317.741@49.27.1317.741" timestamp="1578716437106" />
+    <state x="435" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578114335172">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="435" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/49.27.1317.741@49.27.1317.741" timestamp="1578114335172" />
+    <state x="400" y="138" width="605" height="517" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1578235742316">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="400" y="138" width="605" height="517" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/49.27.1317.741@49.27.1317.741" timestamp="1578235742316" />
+    <state x="460" y="283" width="494" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583753869429">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="460" y="283" width="494" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/49.27.1317.741@49.27.1317.741" timestamp="1583753869429" />
+    <state x="417" y="94" width="571" height="605" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1578114358892">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="417" y="94" width="571" height="605" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/49.27.1317.741@49.27.1317.741" timestamp="1578114358892" />
+    <state x="405" y="27" width="594" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578236384299">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="405" y="27" width="594" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/49.27.1317.741@49.27.1317.741" timestamp="1578236384299" />
+    <state x="335" y="141" width="735" height="513" key="FileChooserDialogImpl" timestamp="1578111030940">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="335" y="141" width="735" height="513" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1578111030940" />
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1578721715657">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1578721715657" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1578721715657">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1578721715657" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1578721715657">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1578721715657" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1578721715657">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1578721715657" />
+    <state x="196" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1578111037304">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="196" y="27" width="1024" height="741" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1578111037304" />
+    <state x="363" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578108316094">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="363" y="225" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1578108316094" />
+    <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1578115963071">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog/49.27.1317.741@49.27.1317.741" timestamp="1578115963071" />
+    <state x="371" y="175" key="run.anything.popup" timestamp="1578715261171">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="371" y="175" key="run.anything.popup/49.27.1317.741@49.27.1317.741" timestamp="1578715261171" />
+    <state x="370" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578118716575">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="370" y="89" width="672" height="678" key="search.everywhere.popup/49.27.1317.741@49.27.1317.741" timestamp="1578118716575" />
+  </component>
+</project>
